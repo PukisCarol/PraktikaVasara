@@ -1,0 +1,42 @@
+[
+  {
+    "UserName": "admin",
+    "Password": "admin123",
+    "Role": "Admin"
+  },
+  {
+    "UserName": "jonas",
+    "Password": "slaptas",
+    "Role": "User"
+  },
+  {
+    "UserName": "ieva",
+    "Password": "mypassword",
+    "Role": "User"
+  },
+  {
+    "UserName": "aha",
+    "Password": "aha",
+    "Role": "User"
+  },
+  {
+    "UserName": "amam",
+    "Password": "amam",
+    "Role": "User"
+  },
+  {
+    "UserName": "amum",
+    "Password": "amum",
+    "Role": "User"
+  },
+  {
+    "UserName": "Labas",
+    "Password": "Krabas",
+    "Role": "User"
+  },
+  {
+    "UserName": "registracija",
+    "Password": "registracija",
+    "Role": "User"
+  }
+]
